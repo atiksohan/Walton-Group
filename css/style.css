@@ -85,6 +85,7 @@
 
 #navbar ul li ul li:hover ul li{
 	display: block;
+	margin-left: -10px;
 }
 
 #navbar .sub_list{
